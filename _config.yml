@@ -13,6 +13,12 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
+# Site Author
+author:
+  name             : "Hann Woei Ho"
+  avatar           : "/assets/images/IMG_3311_square_reduced.jpg"
+  bio              : "I am an **updating** the page."
+
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
