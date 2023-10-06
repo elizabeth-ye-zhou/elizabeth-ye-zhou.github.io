@@ -31,7 +31,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:zhouye@usm.my"}
   - {title: Github, icon: github, url: "https://github.com/elizabeth-ye-zhou"}
-  - {title: Researchgate, icon: rss, url: "https://www.researchgate.net/profile/Ye-Zhou-12"}
+  - {title: Researchgate, icon: researchgate, url: "https://www.researchgate.net/profile/Ye-Zhou-12"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=8U_l4X0AAAAJ&hl=en"}
 
 comments:
