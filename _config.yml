@@ -12,7 +12,6 @@ show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
-author_profile: true
       
 # Site Author
 author:
@@ -42,3 +41,17 @@ comments:
 plugins:
  - jekyll-feed
  - jekyll-sitemap
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
