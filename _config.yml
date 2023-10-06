@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:zhouye@usm.my"}
   - {title: Github, icon: github, url: "https://github.com/elizabeth-ye-zhou"}
   - {title: Researchgate, icon: rss, url: "https://www.researchgate.net/profile/Ye-Zhou-12"}
-  - {title: "Google Scholar", icon: "fab fa-fw fa-google", url: "https://scholar.google.com/citations?user=8U_l4X0AAAAJ&hl=en"
+  - {title: Google Scholar, icon: "fab fa-fw fa-google", url: "https://scholar.google.com/citations?user=8U_l4X0AAAAJ&hl=en"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
