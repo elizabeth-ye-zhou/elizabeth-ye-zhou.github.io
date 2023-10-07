@@ -1,15 +1,13 @@
 ---
-layout: single
-classes: wide
-author_profile: true
 title: "CV"
-permalink: /CV/
+permalink: "/CV/"
+layout: page
 ---
-# [PDF](/publication/CV_HannWoei_June23.pdf)
+[PDF](/publication/CV_HannWoei_June23.pdf)
 ## Education/ Research
-- 2013--2017: Ph.D. Degree, Delft University of Technology (TU Delft) Delft, The Netherlands Aerospace Engineering
-- 2010--2012: MSc. Degree, Delft University of Technology (TU Delft) Delft, The Netherlands Aerospace Engineering (Distinction/ cum laude)
-- 2005--2009: BEng. Degree, Universiti Sains Malaysia (USM) Nibong Tebal, Malaysia Aerospace Engineering (Gold Medal)
+- 2013--2018: Ph.D., Delft University of Technology (TU Delft) Delft, The Netherlands Aerospace Engineering
+- 2010--2013: MSc., Delft University of Technology (TU Delft) Delft, The Netherlands Aerospace Engineering (Distinction/ cum laude)
+- 2006--2010: BSc., Northwestern Polytechnical University, Malaysia Aerospace Engineering (Gold Medal)
 
 ## Working Experience
 - 2017--current:
