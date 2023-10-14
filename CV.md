@@ -5,7 +5,7 @@ layout: page
 ---
 <!--[PDF](/publication/CV_YeZhou.pdf)-->
 ## Education
-- 2013--2018: Ph.D., Aerospace Engineering (Control & Simulation), Delft University of Technology (TU Delft), The Netherlands Aerospace Engineering
+- 2013--2018: Ph.D., Aerospace Engineering (Control & Simulation), Delft University of Technology (TU Delft), The Netherlands
 - 2010--2013: MSc., Mechanical & Electrical Engineering, Northwestern Polytechnical University, P.R.China
 - 2006--2010: BSc., Honors College / Mechanical & Electrical Engineering, Northwestern Polytechnical University, P.R.China
 
