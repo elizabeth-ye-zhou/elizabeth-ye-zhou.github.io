@@ -3,9 +3,9 @@ title: "Publications"
 permalink: "/Publications/"
 layout: page
 ---
----[PDF](/publication/CV_YeZhou.pdf)
+<!--[PDF](/download/Publications_YeZhou.pdf)-->
 ## Selected Publications
-- Y. Zhou, <b>Efficient Online Globalized Dual Heuristic Programming with an Associated Dual Network</b>, <t>IEEE Transactions on Neural Networks and Learning Systems</t>, online, 2022. ([Link](https://doi.org/10.1109/TNNLS.2022.3164727))
+- Y. Zhou, <b>Efficient Online Globalized Dual Heuristic Programming with an Associated Dual Network</b>, _IEEE Transactions on Neural Networks and Learning Systems_, online, 2022. ([Link](https://doi.org/10.1109/TNNLS.2022.3164727))
 
 - 
 - H. W. Ho, C. De Wagter, B. D. W. Remes, and G. C. H. E. de Croon, <b>Optical-flow based self-supervised learning of obstacle appearance applied to MAV landing</b>, Robotics and Autonomous Systems, 100:78-94, 2018. ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0921889017305626))
