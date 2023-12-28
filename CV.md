@@ -3,11 +3,10 @@ title: "CV"
 permalink: "/CV/"
 layout: page
 ---
+
+## Dr. Zhou Ye
 <div class="thumbnail">
 	<img alt="ZY Photo" src="/assets/images/zy3.jpg" class="img-responsive" style="max-width: 300px; border-radius: 50%;">
-	<div class="caption" style="text-align: left;">
-			<strong>Dr. Zhou Ye</strong> <br>
-	</div>
 </div>
 
 <!--[PDF](/publication/CV_YeZhou.pdf)-->
