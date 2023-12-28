@@ -3,6 +3,12 @@ title: "CV"
 permalink: "/CV/"
 layout: page
 ---
+    <div class="thumbnail">
+			<img alt="ZY Photo" src="/assets/images/zy3.jpg" class="img-responsive" style="max-width: 300px; border-radius: 50%;">
+      <div class="caption" style="text-align: center;">
+			<strong>Dr. Zhou Ye</strong> <br>
+      </div>
+    </div>
 <!--[PDF](/publication/CV_YeZhou.pdf)-->
 ## Education
 - 2013--2018: Ph.D., Aerospace Engineering (Control & Simulation), Delft University of Technology (TU Delft), The Netherlands
