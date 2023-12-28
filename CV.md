@@ -9,6 +9,7 @@ layout: page
 			<strong>Dr. Zhou Ye</strong> <br>
 	</div>
 </div>
+
 <!--[PDF](/publication/CV_YeZhou.pdf)-->
 ## Education
 - 2013--2018: Ph.D., Aerospace Engineering (Control & Simulation), Delft University of Technology (TU Delft), The Netherlands
