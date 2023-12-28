@@ -4,8 +4,8 @@ permalink: "/CV/"
 layout: page
 ---
 <div class="thumbnail">
-	<img alt="ZY Photo" src="/assets/images/zy3.jpg" class="img-responsive" style="max-width: 300px; border-radius: 50%; text-align:center">
-	<div class="caption" style="text-align: center;">
+	<img alt="ZY Photo" src="/assets/images/zy3.jpg" class="img-responsive" style="max-width: 300px; border-radius: 50%;">
+	<div class="caption" style="text-align: left;">
 			<strong>Dr. Zhou Ye</strong> <br>
 	</div>
 </div>
